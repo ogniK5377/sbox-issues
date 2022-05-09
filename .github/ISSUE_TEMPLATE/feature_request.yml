@@ -6,7 +6,7 @@ body:
   - type: dropdown
     id: product
     attributes:
-      label: Which application should this be added in?
+      label: For?
       multiple: true
       options:
         - S&Box
